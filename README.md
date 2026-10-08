@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Matteo
 
-<!--
-**MatteMito/MatteMito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in **Computer Science for Management** at the University of Bologna.
+I build Android apps, web applications and back ends. In my free time I'm a football referee.
 
-Here are some ideas to get you started:
+💼 [LinkedIn](https://www.linkedin.com/in/matteo-boscherini-664569225/) · ✉️ matteo.boscherini17@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+
+- **[MovieApp](https://github.com/MatteMito/MovieApp)** – Android app to manage and analyse film lists (bachelor's thesis)
+- **[Vendée Globe RL](https://github.com/alessandrocampedelli/VendeeGlobeRL)** – AI agent that sails the round-the-world Vendée Globe race
+- **[Selfie](https://github.com/NicolasCola7/WT-Project)** – Web app to organise university life
+- **[BoStarter](https://github.com/NicolasCola7/DB-Project)** – Crowdfunding platform built on a MySQL database
+- **[Caesar and Vigenère ciphers](https://github.com/MatteMito/MC-Project)** – Interactive cryptography lab in Mathematica
+
+### Languages and tools
+
+Java · Kotlin · Python · TypeScript · JavaScript · PHP · C# · SQL · Angular · Android · MySQL · PostgreSQL · MongoDB · Git
