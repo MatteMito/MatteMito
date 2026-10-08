@@ -1,7 +1,7 @@
 ## Hi, I'm Matteo 👋
 
 Master's student in **Computer Science for Management** at the University of Bologna.
-I build Android apps, web applications and back ends, with a growing interest in AI.
+I build Android apps, web applications and back ends, with a growing interest in AI and data science.
 
 - 🎓 Second year of my MSc at Unibo
 - 🔎 Open to internships and junior developer roles
