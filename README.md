@@ -5,29 +5,29 @@ I build Android apps, web applications and back ends. In my free time I'm a foot
 
 💼 [LinkedIn](https://www.linkedin.com/in/matteo-boscherini-664569225/) · ✉️ matteo.boscherini17@gmail.com
 
-<h3 align="center">👋</h3>
+### Featured projects
 
-<h1 align="center">Hi, I'm Matteo</h1>
+- **[MovieApp](https://github.com/MatteMito/MovieApp)** – Android app to manage and analyse film lists (bachelor's thesis)
+- **[Vendée Globe RL](https://github.com/MatteMito/VendeeGlobeRL)** – AI agent that sails the round-the-world Vendée Globe race
+- **[Selfie](https://github.com/MatteMito/Selfie)** – Full-stack web app to organise university life
+- **[BoStarter](https://github.com/MatteMito/BoStarter)** – Crowdfunding platform built on a MySQL database
+- **[Spacca Goal](https://github.com/MatteMito/SpaccaGoal)** – Football-themed card game in Java and JavaFX
+- **[Retinal Image Super-Resolution](https://github.com/MatteMito/retinal-superResolution)** – Deep learning and diffusion models to enhance medical retinal images
 
----
+### Tech stack
 
-<p align="center">
-  <b>Master's Student in Computer Science for Management at the University of Bologna</b><br>
-  Working where software meets business: Android apps, web applications, AI and data analysis.<br>
-  Football referee in my free time: quick decisions and teamwork, on and off the pitch.
-</p>
+**Languages**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,py,ts,js,php,cs,html,css,angular,nodejs,nestjs&perline=12" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,mysql,postgres,mongodb,docker,git,github,androidstudio,idea,vscode&perline=11" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,py,ts,js,php,cs,html,css" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matteo-boscherini-664569225/">LinkedIn</a> ·
-  <a href="mailto:matteo.boscherini17@gmail.com">matteo.boscherini17@gmail.com</a>
-</p>
+**Frameworks and libraries**
+
+<img src="https://skillicons.dev/icons?i=angular,nodejs,express,nestjs,bootstrap,pytorch" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,androidstudio,idea,vscode" />
