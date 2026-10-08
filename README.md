@@ -1,7 +1,11 @@
 ## Hi, I'm Matteo 👋
 
-Master's student in **Computer Science for Management** at the University of Bologna, with an interdisciplinary background in computer science and economics.
-I build Android apps, web applications and back ends. In my free time I'm a football referee.
+Master's student in **Computer Science for Management** at the University of Bologna.
+I build Android apps, web applications and back ends, with a growing interest in AI.
+
+- 🎓 Second year of my MSc at Unibo
+- 🔎 Open to internships and junior developer roles
+- 🟨 Football referee in my free time
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,py,ts,php,angular,nodejs,pytorch,mysql,mongodb,git" />
 
