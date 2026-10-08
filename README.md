@@ -11,7 +11,7 @@ I build Android apps, web applications and back ends. In my free time I'm a foot
 - **[Vendée Globe RL](https://github.com/alessandrocampedelli/VendeeGlobeRL)** – AI agent that sails the round-the-world Vendée Globe race
 - **[Selfie](https://github.com/NicolasCola7/WT-Project)** – Web app to organise university life
 - **[BoStarter](https://github.com/NicolasCola7/DB-Project)** – Crowdfunding platform built on a MySQL database
-- **[Spacca Goal](https://github.com/alessandrocampedelli/SpaccaGoal)** – Football-themed card game in Java and JavaFX
+- **[Dama](https://github.com/alessandrocampedelli/labSO_DAMA)** – Multi-threaded client-server forum and chat in Java
 - **[Caesar and Vigenère ciphers](https://github.com/MatteMito/MC-Project)** – Interactive cryptography lab in Mathematica
 
 ### Languages and tools
